@@ -1,0 +1,16 @@
+http://localhost/otlob1/public/home
+admin (admin of admins)
+admin@gmail.com
+password 123456
+
+ester(admin of one resturant) 
+ester@gmail.com
+password 123
+ 
+mora (just user)
+mora@gmail.com
+password  123
+
+dashboard to enter to admins dashboard
+http://localhost/otlob1/public/adminpanel/users
+ 
